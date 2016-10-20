@@ -1,0 +1,1 @@
+[[やってみよう]エクセルの列についてるアルファベット](https://www.reddit.com/r/programming_jp/comments/56i9ez/)
